@@ -23,5 +23,8 @@
     "postcss": "^8.3.11",
     "sass-loader": "^10.1.1",
     "tailwindcss": "^2.2.19"
+  },
+  "engines": {
+    "node": "14.18.1"
   }
 }
