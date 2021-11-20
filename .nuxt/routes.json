@@ -3,36 +3,42 @@
     "name": "company-edit",
     "path": "/company/edit",
     "component": "/home/isaac/page-itwc/pages/company/edit.vue",
-    "chunkName": "pages/company/edit"
+    "chunkName": "pages/company/edit",
+    "_name": "_07137886"
   },
   {
     "name": "company-list",
     "path": "/company/list",
     "component": "/home/isaac/page-itwc/pages/company/list.vue",
-    "chunkName": "pages/company/list"
+    "chunkName": "pages/company/list",
+    "_name": "_10695dcc"
   },
   {
     "name": "company-new",
     "path": "/company/new",
     "component": "/home/isaac/page-itwc/pages/company/new.vue",
-    "chunkName": "pages/company/new"
+    "chunkName": "pages/company/new",
+    "_name": "_32201a58"
   },
   {
     "name": "users-list",
     "path": "/users/list",
     "component": "/home/isaac/page-itwc/pages/users/list.vue",
-    "chunkName": "pages/users/list"
+    "chunkName": "pages/users/list",
+    "_name": "_976d6f22"
   },
   {
     "name": "users-new",
     "path": "/users/new",
     "component": "/home/isaac/page-itwc/pages/users/new.vue",
-    "chunkName": "pages/users/new"
+    "chunkName": "pages/users/new",
+    "_name": "_47db3cdf"
   },
   {
     "name": "index",
     "path": "/",
     "component": "/home/isaac/page-itwc/pages/index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_e75ed1d0"
   }
 ]
