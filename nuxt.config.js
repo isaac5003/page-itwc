@@ -32,14 +32,12 @@ export default {
     // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
     buildModules: [
         '@nuxtjs/tailwindcss',
-        '@nuxtjs/vuetify',
-        // With options
-        ['@nuxtjs/vuetify', { /* module options */ }]
     ],
 
     // Modules: https://go.nuxtjs.dev/config-modules
     modules: [
-        '@nuxtjs/axios'
+        '@nuxtjs/axios',
+        '@nuxtjs/vuetify',
     ],
     axios: {
         //new url
