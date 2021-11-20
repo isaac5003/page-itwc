@@ -1,0 +1,32 @@
+/* Color del tema */
+$--color-primary: #2c5282;
+
+$--color-success: #38a169 !default;
+$--color-warning: #d69e2e !default;
+$--color-danger: #e53e3e !default;
+$--color-info: #3182ce !default;
+
+/* Ubicación de la fuente, obligatoria */
+$--font-path: "../../node_modules/element-ui/lib/theme-chalk/fonts";
+
+// @import "~element-ui/packages/theme-chalk/src/index";
+@import "../../node_modules/element-ui/packages/theme-chalk/src/index";
+
+html {
+  font-family: Poppins !important;
+}
+
+.el-form-item__label {
+  font-size: 12px;
+  padding-bottom: 0 !important;
+  line-height: 15px;
+}
+
+.el-loading-spinner {
+  display: flex;
+  justify-content: center;
+}
+
+.el-select-dropdown__item {
+  height: auto !important;
+}
